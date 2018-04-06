@@ -1,0 +1,2 @@
+/var/www/html false nginx 0755 0755
+/var/www/html/index.html false nginx 0644 0644
