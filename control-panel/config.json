@@ -3,7 +3,7 @@
   "version": "dev",
   "slug": "control-panel",
   "description": "Simple to use control panel for the ultimate home automation setup",
-  "url": "https://community.home-assistant.io/t/community-hass-io-add-on-control-panel/33817?u=frenck",
+  "url": "https://community.home-assistant.io/t/community-hass-io-add-on-home-assistant-control-panel/49634?u=frenck",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:7080]",
   "startup": "system",
   "arch": [

@@ -30,9 +30,6 @@ potential of your Smart devices.
 The installation of this add-on is pretty straightforward and not different in
 comparison to installing any other Hass.io add-on.
 
-**NOTE**: Your Hass.io machine MUST HAVE a static IP for this add-on to function
-properly/fully.
-
 1. [Add our Hass.io add-ons repository][repository] to your Hass.io instance.
 1. Install the "Home Assistant Control Panel" add-on
 1. Start the "Home Assistant Control Panel" add-on
@@ -277,7 +274,7 @@ SOFTWARE.
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-control-panel/33817?u=frenck
+[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-home-assistant-control-panel/49634?u=frenck
 [frenck]: https://github.com/frenck
 [i386-arch-shield]: https://img.shields.io/badge/architecture-i386-blue.svg
 [i386-dockerhub]: https://hub.docker.com/r/hassioaddons/control-panel-i386
