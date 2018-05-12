@@ -40,7 +40,7 @@ comparison to installing any other Hass.io add-on.
 The last 2 requirements/steps would need changes to your Home
 Assistant `configuration.yaml` file:
 
-```
+```yaml
 http:
   api_password: YOUR_PASSWORD
   cors_allowed_origins:
