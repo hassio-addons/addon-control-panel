@@ -271,8 +271,6 @@ SOFTWARE.
 [armhf-microbadger]: https://microbadger.com/images/hassioaddons/control-panel-armhf
 [armhf-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/control-panel-armhf.svg
 [armhf-version-shield]: https://images.microbadger.com/badges/version/hassioaddons/control-panel-armhf.svg
-[bitcoin-shield]: https://img.shields.io/badge/donate-bitcoin-blue.svg
-[bitcoin]: https://blockchain.info/payment_request?address=3GVzgN6NpVtfXnyg5dQnaujtqVTEDBCtAH
 [bountysource-shield]: https://img.shields.io/bountysource/team/hassio-addons/activity.svg
 [bountysource]: https://www.bountysource.com/teams/hassio-addons/issues
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
@@ -299,10 +297,6 @@ SOFTWARE.
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [license-shield]: https://img.shields.io/github/license/hassio-addons/addon-control-panel.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
-[patreon-shield]: https://img.shields.io/badge/donate-patreon-blue.svg
-[patreon]: https://www.patreon.com/frenck
-[paypal-shield]: https://img.shields.io/badge/donate-paypal-blue.svg
-[paypal]: https://www.paypal.me/FranckNijhof
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [reddit]: https://reddit.com/r/homeassistant
 [releases-shield]: https://img.shields.io/github/release/hassio-addons/addon-control-panel.svg
