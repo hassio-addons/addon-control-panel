@@ -11,7 +11,7 @@ RUN \
 COPY rootfs /
 
 # Add the control panel
-ADD http://reformedreality.com/hass-download /var/www/html/index.html
+ADD http://reformedreality.com/hass-download?20180612 /var/www/html/index.html
 
 # Build arugments
 ARG BUILD_ARCH
