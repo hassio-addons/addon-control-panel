@@ -18,6 +18,17 @@ Simple to use control panel for the ultimate home automation setup.
 
 ![Home Assistant Control Panel screenshot](images/screenshot.jpg)
 
+## Deprecation warning
+
+**This add-on is in a deprecated state!**
+
+This add-on is no longer supported or maintained.
+
+You can still install this control panel manually or use the hosted version
+offered by the author. For more information see:
+
+<https://reformedreality.com/home-assistant-control-panel>
+
 ## About
 
 Using a phone or tablet device, you can hook into your Home Assistant server
@@ -297,7 +308,7 @@ SOFTWARE.
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [license-shield]: https://img.shields.io/github/license/hassio-addons/addon-control-panel.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[project-stage-shield]:  https://img.shields.io/badge/project%20stage-%20!%20DEPRECATED%20%20%20!-ff0000.svg
 [reddit]: https://reddit.com/r/homeassistant
 [releases-shield]: https://img.shields.io/github/release/hassio-addons/addon-control-panel.svg
 [releases]: https://github.com/hassio-addons/addon-control-panel/releases
